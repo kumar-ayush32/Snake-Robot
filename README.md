@@ -3,3 +3,7 @@
 
 ## Final Video
 https://github.com/kumar-ayush32/Snake-Robot/blob/main/Media/Final_video.mp4
+
+## Video
+## Demo Video
+[Click here to watch the demo](Media/Final_video.mp4)
