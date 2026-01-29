@@ -1,1 +1,2 @@
 # Snake-Robot
+![Snake_bot_gif](https://github.com/user-attachments/assets/8d739219-e846-4b62-b6ec-5faf8f3f9093)
